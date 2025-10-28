@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+pywavelets
+statsmodels
+scikit-learn
+peakutils
+scipy
+yfinance
+ipykernel
+nbconvert
+pypandoc
+umap-learn
